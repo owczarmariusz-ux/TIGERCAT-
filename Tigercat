@@ -1,0 +1,17 @@
+{
+  "format": "atomicassets",
+  "name": "Purple Tiger Cat",
+  "author": "blackwolf3",
+  "description": "A cute little purple tiger cat NFT, full of charm and curiosity.",
+  "image": "ipfs://YOUR_IMAGE_IPFS_HASH",
+  "attributes": [
+    { "trait_type": "Color", "value": "Purple" },
+    { "trait_type": "Animal", "value": "Tiger Cat" },
+    { "trait_type": "Mood", "value": "Playful" },
+    { "trait_type": "Rarity", "value": "1 of 1" }
+  ],
+  "collection": "PURPLECATS",
+  "series": "Genesis",
+  "type": "image/png",
+  "supply": 1
+}
